@@ -1,0 +1,490 @@
+[
+    {
+        "question": "\ud83d\udcb0Check Account Balance",
+        "answer": "You can view your current account balance securely from your Dashboard widget. Your balance is updated in real-time."
+    },
+    {
+        "question": "\ud83d\udcb5View Recent Transactions",
+        "answer": "Navigate to the 'Transactions' tab to see a full chronological history of your credits and debits."
+    },
+    {
+        "question": "\ud83c\udfe0Loan Information",
+        "answer": "We currently offer Personal, Home, Car, Education, and Business loans. You can track your active loans in the Loan Tracking tab."
+    },
+    {
+        "question": "\ud83c\udfe0Apply for New Loan",
+        "answer": "Go to the 'Loan Tracking' tab and use the Application Form at the bottom. Provide the type, amount, and tenure to begin."
+    },
+    {
+        "question": "\ud83d\udcb5%Interest Rates",
+        "answer": "Our interest rates vary by loan type, starting as low as 8.5% p.a. for home loans. Use the loan calculator to see specific rates."
+    },
+    {
+        "question": "\ud83d\udcb8Transfer Money",
+        "answer": "The immediate money transfer feature via NEFT/IMPS/RTGS is currently under development and will be available shortly."
+    },
+    {
+        "question": "How do I check my account balance?",
+        "answer": "You can view your current balance in the 'Dashboard' tab or in the sidebar under 'Account Details'. It is updated in real-time."
+    },
+    {
+        "question": "Where can I see my recent transactions?",
+        "answer": "Go to the 'Transactions' tab to see your full history, or check the 'Recent Transactions' section on your Dashboard."
+    },
+    {
+        "question": "What is my account number?",
+        "answer": "Your 10-digit account number is displayed in the sidebar under 'Account Details' for quick reference."
+    },
+    {
+        "question": "How do I logout?",
+        "answer": "Click the 'Logout' button at the bottom of the sidebar. Your chat history will be automatically saved before you exit."
+    },
+    {
+        "question": "Can I change my preferred language?",
+        "answer": "Yes, you can choose from various Indian languages like Hindi, Bengali, Telugu, and more during the initial login process."
+    },
+    {
+        "question": "How do I view my previous chats?",
+        "answer": "In the 'Chat Assistant' tab, look for the 'Previous Chats' section on the right side to load or delete your past conversations."
+    },
+    {
+        "question": "How do I apply for a savings account?",
+        "answer": "Regarding your query about the savings account: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "What are the benefits of a savings account?",
+        "answer": "Regarding your query about the savings account: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How do I close my savings account?",
+        "answer": "Regarding your query about the savings account: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "What are the fees for a savings account?",
+        "answer": "Regarding your query about the savings account: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "How do I track my savings account?",
+        "answer": "Regarding your query about the savings account: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "Can I upgrade my savings account?",
+        "answer": "Regarding your query about the savings account: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "What is the limit on a savings account?",
+        "answer": "Regarding your query about the savings account: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How to report a lost savings account?",
+        "answer": "Regarding your query about the savings account: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "Are there any hidden charges for a savings account?",
+        "answer": "Regarding your query about the savings account: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "How do I update my details for a savings account?",
+        "answer": "Regarding your query about the savings account: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I apply for a current account?",
+        "answer": "Regarding your query about the current account: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "What are the benefits of a current account?",
+        "answer": "Regarding your query about the current account: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I close my current account?",
+        "answer": "Regarding your query about the current account: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "What are the fees for a current account?",
+        "answer": "Regarding your query about the current account: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How do I track my current account?",
+        "answer": "Regarding your query about the current account: For details regarding this, please visit your nearest bank branch or check our official schedule of charges."
+    },
+    {
+        "question": "Can I upgrade my current account?",
+        "answer": "Regarding your query about the current account: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "What is the limit on a current account?",
+        "answer": "Regarding your query about the current account: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How to report a lost current account?",
+        "answer": "Regarding your query about the current account: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "Are there any hidden charges for a current account?",
+        "answer": "Regarding your query about the current account: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How do I update my details for a current account?",
+        "answer": "Regarding your query about the current account: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "How do I apply for a credit card?",
+        "answer": "Regarding your query about the credit card: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "What are the benefits of a credit card?",
+        "answer": "Regarding your query about the credit card: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How do I close my credit card?",
+        "answer": "Regarding your query about the credit card: For details regarding this, please visit your nearest bank branch or check our official schedule of charges."
+    },
+    {
+        "question": "What are the fees for a credit card?",
+        "answer": "Regarding your query about the credit card: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How do I track my credit card?",
+        "answer": "Regarding your query about the credit card: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "Can I upgrade my credit card?",
+        "answer": "Regarding your query about the credit card: For details regarding this, please visit your nearest bank branch or check our official schedule of charges."
+    },
+    {
+        "question": "What is the limit on a credit card?",
+        "answer": "Regarding your query about the credit card: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How to report a lost credit card?",
+        "answer": "Regarding your query about the credit card: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "Are there any hidden charges for a credit card?",
+        "answer": "Regarding your query about the credit card: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How do I update my details for a credit card?",
+        "answer": "Regarding your query about the credit card: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "How do I apply for a debit card?",
+        "answer": "Regarding your query about the debit card: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "What are the benefits of a debit card?",
+        "answer": "Regarding your query about the debit card: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "How do I close my debit card?",
+        "answer": "Regarding your query about the debit card: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "What are the fees for a debit card?",
+        "answer": "Regarding your query about the debit card: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How do I track my debit card?",
+        "answer": "Regarding your query about the debit card: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "Can I upgrade my debit card?",
+        "answer": "Regarding your query about the debit card: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "What is the limit on a debit card?",
+        "answer": "Regarding your query about the debit card: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "How to report a lost debit card?",
+        "answer": "Regarding your query about the debit card: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "Are there any hidden charges for a debit card?",
+        "answer": "Regarding your query about the debit card: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How do I update my details for a debit card?",
+        "answer": "Regarding your query about the debit card: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How do I apply for a fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: For details regarding this, please visit your nearest bank branch or check our official schedule of charges."
+    },
+    {
+        "question": "What are the benefits of a fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "How do I close my fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "What are the fees for a fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "How do I track my fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "Can I upgrade my fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "What is the limit on a fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How to report a lost fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "Are there any hidden charges for a fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How do I update my details for a fixed deposit?",
+        "answer": "Regarding your query about the fixed deposit: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "How do I apply for a recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "What are the benefits of a recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I close my recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "What are the fees for a recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I track my recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "Can I upgrade my recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "What is the limit on a recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How to report a lost recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "Are there any hidden charges for a recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "How do I update my details for a recurring deposit?",
+        "answer": "Regarding your query about the recurring deposit: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "How do I apply for a mutual funds?",
+        "answer": "Regarding your query about the mutual funds: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "What are the benefits of a mutual funds?",
+        "answer": "Regarding your query about the mutual funds: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How do I close my mutual funds?",
+        "answer": "Regarding your query about the mutual funds: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "What are the fees for a mutual funds?",
+        "answer": "Regarding your query about the mutual funds: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "How do I track my mutual funds?",
+        "answer": "Regarding your query about the mutual funds: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "Can I upgrade my mutual funds?",
+        "answer": "Regarding your query about the mutual funds: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "What is the limit on a mutual funds?",
+        "answer": "Regarding your query about the mutual funds: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How to report a lost mutual funds?",
+        "answer": "Regarding your query about the mutual funds: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "Are there any hidden charges for a mutual funds?",
+        "answer": "Regarding your query about the mutual funds: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How do I update my details for a mutual funds?",
+        "answer": "Regarding your query about the mutual funds: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How do I apply for a life insurance?",
+        "answer": "Regarding your query about the life insurance: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "What are the benefits of a life insurance?",
+        "answer": "Regarding your query about the life insurance: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I close my life insurance?",
+        "answer": "Regarding your query about the life insurance: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "What are the fees for a life insurance?",
+        "answer": "Regarding your query about the life insurance: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "How do I track my life insurance?",
+        "answer": "Regarding your query about the life insurance: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "Can I upgrade my life insurance?",
+        "answer": "Regarding your query about the life insurance: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "What is the limit on a life insurance?",
+        "answer": "Regarding your query about the life insurance: You can manage this easily by visiting the respective section in your account dashboard online."
+    },
+    {
+        "question": "How to report a lost life insurance?",
+        "answer": "Regarding your query about the life insurance: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "Are there any hidden charges for a life insurance?",
+        "answer": "Regarding your query about the life insurance: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "How do I update my details for a life insurance?",
+        "answer": "Regarding your query about the life insurance: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How do I apply for a health insurance?",
+        "answer": "Regarding your query about the health insurance: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "What are the benefits of a health insurance?",
+        "answer": "Regarding your query about the health insurance: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How do I close my health insurance?",
+        "answer": "Regarding your query about the health insurance: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "What are the fees for a health insurance?",
+        "answer": "Regarding your query about the health insurance: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "How do I track my health insurance?",
+        "answer": "Regarding your query about the health insurance: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "Can I upgrade my health insurance?",
+        "answer": "Regarding your query about the health insurance: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "What is the limit on a health insurance?",
+        "answer": "Regarding your query about the health insurance: This service is typically processed within 2-3 business days upon submission of the request."
+    },
+    {
+        "question": "How to report a lost health insurance?",
+        "answer": "Regarding your query about the health insurance: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "Are there any hidden charges for a health insurance?",
+        "answer": "Regarding your query about the health insurance: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I update my details for a health insurance?",
+        "answer": "Regarding your query about the health insurance: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "How do I apply for a car loan?",
+        "answer": "Regarding your query about the car loan: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "What are the benefits of a car loan?",
+        "answer": "Regarding your query about the car loan: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "How do I close my car loan?",
+        "answer": "Regarding your query about the car loan: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "What are the fees for a car loan?",
+        "answer": "Regarding your query about the car loan: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I track my car loan?",
+        "answer": "Regarding your query about the car loan: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "Can I upgrade my car loan?",
+        "answer": "Regarding your query about the car loan: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "What is the limit on a car loan?",
+        "answer": "Regarding your query about the car loan: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How to report a lost car loan?",
+        "answer": "Regarding your query about the car loan: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "Are there any hidden charges for a car loan?",
+        "answer": "Regarding your query about the car loan: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "How do I update my details for a car loan?",
+        "answer": "Regarding your query about the car loan: To proceed with this, you may require a verified email address and active mobile number for OTP confirmation."
+    },
+    {
+        "question": "How do I apply for a home loan?",
+        "answer": "Regarding your query about the home loan: There are no hidden charges. All fees are transparently listed in your account agreement."
+    },
+    {
+        "question": "What are the benefits of a home loan?",
+        "answer": "Regarding your query about the home loan: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "How do I close my home loan?",
+        "answer": "Regarding your query about the home loan: You can initiate this process by contacting our 24/7 designated customer service hotline."
+    },
+    {
+        "question": "What are the fees for a home loan?",
+        "answer": "Regarding your query about the home loan: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "How do I track my home loan?",
+        "answer": "Regarding your query about the home loan: Please ensure your KYC is fully updated before attempting this request."
+    },
+    {
+        "question": "Can I upgrade my home loan?",
+        "answer": "Regarding your query about the home loan: This feature is directly integrated into our mobile application under the Services tab."
+    },
+    {
+        "question": "What is the limit on a home loan?",
+        "answer": "Regarding your query about the home loan: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "How to report a lost home loan?",
+        "answer": "Regarding your query about the home loan: Applications and tracking can be done exclusively through the New Requests panel in your account."
+    },
+    {
+        "question": "Are there any hidden charges for a home loan?",
+        "answer": "Regarding your query about the home loan: The limits and benefits vary depending on your specific account tier. Check your profile settings for your applicable tier."
+    },
+    {
+        "question": "what is meant by json",
+        "answer": "This system only applies to banking queries, and the term \"JSON\" is not related to banking. JSON stands for JavaScript Object Notation and is used for storing and transporting data."
+    }
+]
