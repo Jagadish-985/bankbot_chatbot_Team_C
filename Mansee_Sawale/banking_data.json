@@ -1,0 +1,30 @@
+{
+  "Account Services": {
+    "Check Balance": {
+      "en": "You can check your account balance using mobile banking app, ATM, or SMS banking.",
+      "hi": "आप मोबाइल बैंकिंग ऐप, एटीएम या SMS से बैलेंस चेक कर सकते हैं।"
+    },
+    "Bank Statement": {
+      "en": "You can download your bank statement from net banking or mobile banking app.",
+      "hi": "आप नेट बैंकिंग या मोबाइल ऐप से स्टेटमेंट डाउनलोड कर सकते हैं।"
+    },
+    "Update Mobile Number": {
+      "en": "You can update your mobile number through net banking or by visiting the bank branch.",
+      "hi": "मोबाइल नंबर नेट बैंकिंग प्रोफाइल या बैंक शाखा में अपडेट करें।"
+    }
+  },
+
+  "ATM & Card": {
+    "Block ATM Card": {
+      "en": "You can block your ATM card through mobile banking app or by calling bank customer care.",
+      "hi": "आप मोबाइल ऐप या कस्टमर केयर से ATM कार्ड ब्लॉक कर सकते हैं।"
+    }
+  },
+
+  "Account Rules": {
+    "Minimum Balance": {
+      "en": "Minimum balance in savings account is usually ₹1000 to ₹5000 depending on bank.",
+      "hi": "सेविंग अकाउंट का न्यूनतम बैलेंस ₹1000 से ₹5000 तक होता है।"
+    }
+  }
+}
